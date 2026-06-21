@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dr.dan/git/pass_protect/pass_protect'
+relocations:     []
+...
